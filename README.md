@@ -14,3 +14,7 @@
 <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 
 > Currently studying TDD, OOP & design patterns in [woowacourse-precourse](https://github.com/woowacourse-precourse)
+
+## Postings
+- [내가 가졌던 객체지향에 대한 오해들](https://velog.io/@iamodh/%EB%82%B4%EA%B0%80-%EA%B0%80%EC%A1%8C%EB%8D%98-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4%EB%93%A4)
+- [의존성 주입과 DI 컨테이너 사용에 관한 고찰](https://velog.io/@iamodh/%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%84-%EC%A3%BC%EC%9E%85%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-DI-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B5%AC%ED%98%84)
