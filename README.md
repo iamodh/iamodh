@@ -2,7 +2,10 @@
   <img src="https://render.gitanimals.org/farms/{iamodh}"/>
 </a>
 
+> Currently studying TDD, OOP & design patterns in [woowacourse-precourse](https://github.com/woowacourse-precourse)
+
 ## ✨ Skills
+
 ### Frontend
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 ### Backend
@@ -12,8 +15,6 @@
 
 ### Deploy & Infra
 <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
-> Currently studying TDD, OOP & design patterns in [woowacourse-precourse](https://github.com/woowacourse-precourse)
 
 ## ✏️ Postings
 - [내가 가졌던 객체지향에 대한 오해들](https://velog.io/@iamodh/%EB%82%B4%EA%B0%80-%EA%B0%80%EC%A1%8C%EB%8D%98-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4%EB%93%A4)
