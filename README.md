@@ -12,3 +12,5 @@
 
 ### Deploy & Infra
 <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+
+> Currently studying TDD, OOP & design patterns in [woowacourse-precourse](https://github.com/woowacourse-precourse)
