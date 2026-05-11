@@ -2,10 +2,6 @@
   <img src="https://render.gitanimals.org/farms/{iamodh}"/>
 </a>
 
-## 👾 AI WORKFLOW
-
-<img width="8192" height="2788" alt="Claude GUI Development-2026-04-02-034405" src="https://github.com/user-attachments/assets/9bdb3e18-df58-4960-afa1-279737b1b016" />
-
 ## ✨ Skills
 
 > Claude Code와 Next.js로 국가 지원 교육 사업의 [시간표 관리 웹 서비스](https://github.com/iamodh/excel-timetable)를 개발 중입니다. AI 워크플로우 기반의 빠른 구현과 지속적인 개선에 관심이 있으며, 현재 사용자 피드백을 반영해 서비스를 발전시키고 있습니다.
